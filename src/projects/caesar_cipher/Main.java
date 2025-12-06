@@ -1,6 +1,6 @@
 package projects.caesar_cipher;
 
-public class Application {
+public class Main {
 
     public static void main(String[] args) {
         CaesarCipher caesarCipher = new CaesarCipher(4);
